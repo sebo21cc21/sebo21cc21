@@ -1,4 +1,3 @@
-## My github stats:
 <table>
     <tr>
          <td valign="top">
