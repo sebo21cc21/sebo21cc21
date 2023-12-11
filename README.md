@@ -7,7 +7,7 @@
 - ⚡ I love travelling and water sports. I'm a math and IT private tutor
 
 <h1 align="center">GitHub Stats 📊</h1>
-<div style="display:flex;flex-wrap:wrap;">
+<div align="center" style="display:flex;flex-wrap:wrap;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebo21cc21&langs_count=10&layout=compact&theme=aura" height="200" />
       <img src="https://github-readme-stats.vercel.app/api?username=sebo21cc21&theme=aura" height="200" />
 </div>
